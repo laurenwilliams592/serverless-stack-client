@@ -1,4 +1,6 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_51HLET1F57JO9JHW52iZwJHLtromuAlsz13VPhnd0xk10mp18S7PhnD1QpURmhpgpKPVHKuhD1LgZtSPDijzssMvO00dZtSXGtH",
     s3: {
       REGION: "us-west-1",
       BUCKET: "laurens-notes-app-uploads"
